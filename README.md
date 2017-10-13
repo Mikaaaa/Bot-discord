@@ -8,6 +8,7 @@ Robot discord qui publie des informations a partir de plusieurs flux rss.
 
 
 img.php récupère la première image du lien passé en paramètre
-*ex.localhost/img.php?q=http://www.01net.com/actualites/microsoft-ferme-le-meconnu-groove-et-le-remplace-par-spotify-1269427.html
+*ex
+* localhost/img.php?q=http://www.01net.com/actualites/microsoft-ferme-le-meconnu-groove-et-le-remplace-par-spotify-1269427.html
 
 ![alt text](https://mika.unrozah.fr/img.php?q=http://www.01net.com/actualites/microsoft-ferme-le-meconnu-groove-et-le-remplace-par-spotify-1269427.html)
