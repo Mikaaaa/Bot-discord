@@ -1,9 +1,9 @@
-const Discord =require('discord.js')
-const bot = new Discord.Client()
-var feed = require("feed-read");
-var schedule = require('node-schedule');
-const Entities = require('html-entities').AllHtmlEntities;
-const entities = new Entities();
+const Discord 		= require('discord.js');
+const feed 			= require("feed-read");
+const schedule 		= require('node-schedule');
+const Entities 		= require('html-entities').AllHtmlEntities;
+const bot 			= new Discord.Client();
+const entities 		= new Entities();
 
 
 bot.login('MzY1NTY1NzYxODc3NzA0NzA1.DLgLRA.bRJzvZxLpOF2qgXNc-Ku37huP30');
