@@ -6,9 +6,7 @@ const bot 			= new Discord.Client();
 const entities 		= new Entities();
 
 
-bot.login('MzY1NTY1NzYxODc3NzA0NzA1.DLgLRA.bRJzvZxLpOF2qgXNc-Ku37huP30');
-// Melissa Theuriau - MzY1NTY1NzYxODc3NzA0NzA1.DLgLRA.bRJzvZxLpOF2qgXNc-Ku37huP30 
-// melissaDev - MzY1MjYwODM0NjU5NjMxMTM1.DLj7ig.-9PrRrH1llLcdj_FTHiPh_FgObI
+bot.login('token')
 
 function getEmbed(argument) {
 	var content;
